@@ -1,40 +1,54 @@
-# Hi there! I'm Amirul Hakimi 👋 
+# Hi there! I'm Amirul Hakimi 👋
 
-### **Software Engineer | UI/UX Enthusiast | Occasional Barista**
+### **Functional Test Engineer | Software Engineering Graduate | Aspiring Automation Engineer**
 
-I’m a Software Engineering graduate from **Universiti Malaysia Terengganu (UMT)**. I love building smooth digital experiences from robust backends to "glassmorphic" frontends. Whether I'm debugging PHP scripts or crafting a perfect latte, I'm all about the details.
+I'm a Software Engineering graduate from **Universiti Malaysia Terengganu (UMT)** working in functional test engineering, where hardware meets software. I design and build test fixtures that verify electronic products before they ship, and I'm now growing my programming skills toward test automation.
 
 ---
 
-### **🚀 What I’m Up To**
-* 🛠️ **Building:** Scalable web and mobile apps using **Java, PHP, and React Native**.
-* 🎨 **Designing:** Modern, responsive interfaces with **Framer**.
-* 📦 **Shipping:** Real-world e-commerce solutions—like **Bayaexclusive.com**.
-* 🧪 **Testing:** Ensuring API reliability using **Postman**.
+### **🔧 What I Do**
+* 📋 **Requirement analysis:** Studying customer specs and turning them into a clear test plan.
+* 🧾 **BOM creation:** Raising the Bill of Materials for fixture builds.
+* 📐 **Schematic design:** Drawing fixture schematics for voltage and continuity tests, and for programming ICs on customer UUTs.
+* 🔌 **Build & debug:** Verifying wiring, then debugging the fixture until it's reliable.
+* 🚚 **On-site deployment:** Installing and commissioning fixtures at customer sites.
+
+---
+
+### **🚀 What I'm Learning**
+* 💻 **C#:** Building a solid foundation in the language.
+* 🧱 **OOP:** Relearning object-oriented design, so I can write cleaner, reusable code.
+* 🤖 **Test automation:** Exploring how to bring software into hardware testing.
 
 ---
 
 ### **🛠️ My Tech Stack**
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Java, JavaScript, Python, PHP, SQL |
-| **Frontend/Mobile** | React Native, Flutter, HTML/CSS, JSP |
-| **Backend** | PHP (RESTful APIs), Java Servlets |
-| **Tools** | Postman, Git/GitHub, VS Code |
+| **Currently learning** | C#, Object-Oriented Programming |
+| **Languages (background)** | Java, JavaScript, Python, PHP, SQL |
+| **Web/Mobile (background)** | React Native, Flutter, HTML/CSS, JSP |
+| **Hardware testing** | Fixture design, schematics, BOM, wiring, IC programming |
+| **Tools** | Git/GitHub, VS Code, Postman |
+
+---
+
+### **📁 Past Work**
+* 🛒 **Bayaexclusive.com:** A real-world e-commerce solution I helped ship.
+* 🌐 Web and mobile projects from my degree (Java, PHP, React Native).
 
 ---
 
 ### **🏆 Beyond the Code**
-Life isn't just about semi-colons. When I'm offline, you can usually find me:
-* 🥏 **On the field:** Competing in Frisbee tournaments.
-* 🏐 **On the sand:** Representing UMT in Beach Volleyball.
-* ☕ **Behind the bar:** Maintaining quality under pressure (Zus Coffee alum!).
+* 🥏 Frisbee tournaments
+* 🏐 Beach volleyball (represented UMT)
+* ☕ Coffee lover and former barista (Zus Coffee alum)
 
 ---
 
 ### **📫 Get in Touch**
 * **LinkedIn:** [amirul-hakimi01](https://www.linkedin.com/in/amirul-hakimi01/)
 * **Email:** [Amirulmunadhil01@gmail.com](mailto:Amirulmunadhil01@gmail.com)
-* **Location:** Based in Arau, Perlis 📍
+* **Location:** Perlis, Malaysia 📍
 
-*"Turning caffeine into code since 2022."*
+*"From testing hardware to automating it, always learning."*
